@@ -1,4 +1,4 @@
-# Weather Forecasting App - SkCast Weather
+# Weather Forecasting App - SkyCast Weather
 
 ---
 
@@ -39,7 +39,7 @@
 If the project is on GitHub, clone it using:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/cindytsy/Weather-Forecasting-App.git>
 ```
 
 Then move into the project folder:
