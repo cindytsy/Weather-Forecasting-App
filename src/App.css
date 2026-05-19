@@ -17,6 +17,15 @@ body {
   background-attachment: fixed;
 }
 
+.footer {
+  margin-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #ffffff;
+  opacity: 0.85;
+}
+
 .app {
   min-height: 100vh;
   display: flex;
