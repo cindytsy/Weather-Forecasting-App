@@ -1,4 +1,7 @@
-# Weather Forecasting App - SkyCast Weather
+# Weather Forecasting App
+
+This is a React Weather Forecasting App using the OpenWeatherMap API.
+Users can search for a city and view current weather information.
 
 ---
 
@@ -39,7 +42,7 @@
 If the project is on GitHub, clone it using:
 
 ```bash
-git clone <https://github.com/cindytsy/Weather-Forecasting-App.git>
+git clone < https://github.com/cindytsy/Weather-Forecasting-App.git >
 ```
 
 Then move into the project folder:
