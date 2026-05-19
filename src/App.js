@@ -253,6 +253,10 @@ function App() {
       <div className="weather-container">
         <h1>🌊 Weather Forecasting App</h1>
 
+      <footer className="footer">
+        <p>Copyright © 2026 SIN YI TSANG All rights reserved.</p>
+      </footer>
+
         <form onSubmit={handleSearch} className="search-form">
           <input
             type="text"
