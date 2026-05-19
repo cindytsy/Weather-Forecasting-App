@@ -91,13 +91,7 @@ npm start
 The app will open in your browser at:
 
 ```text
-http://localhost:3000
-```
-
-If port 3000 is already being used, the terminal may ask if you want to run the app on another port. Type:
-
-```text
-Y
+https://weather-forecasting-app-v4k9.onrender.com
 ```
 
 ---
