@@ -18,12 +18,20 @@ body {
 }
 
 .footer {
-  margin-top: 30px;
-  padding-bottom: 20px;
+  width: 100%;
+  margin-top: 40px;
+  padding: 20px 0;
   text-align: center;
-  font-size: 14px;
   color: #ffffff;
-  opacity: 0.85;
+  font-size: 14px;
+  opacity: 0.9;
+  display: block;
+  clear: both;
+}
+
+.footer p {
+  margin: 0 auto;
+  text-align: center;
 }
 
 .app {
