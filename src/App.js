@@ -376,12 +376,14 @@ function App() {
                 </div>
               ))}
 
-              <footer className="footer">
-                <p>Copyright © 2026 SIN YI TSANG All rights reserved.</p>
-              </footer>
             </div>
           </div>
         )}
+
+              <footer className="footer">
+                <p>Copyright © 2026 SIN YI TSANG All rights reserved.</p>
+              </footer>
+
       </div>
     </div>
   );

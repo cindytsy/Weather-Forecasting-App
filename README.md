@@ -94,7 +94,7 @@ npm start
 The app will open in your browser at:
 
 ```text
-https://weather-forecasting-app-3ts8.onrender.com
+https://weather-forecasting-app-v2zw.onrender.com
 ```
 
 ---
