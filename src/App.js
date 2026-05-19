@@ -248,11 +248,10 @@ function App() {
 
     return "ocean-default";
   }
-
   return (
     <div className={`app ${getBackgroundClass()}`}>
       <div className="weather-container">
-        <h1>🌊 SkyCast Weather</h1>
+        <h1>🌊 Weather Forecasting App</h1>
 
         <form onSubmit={handleSearch} className="search-form">
           <input
